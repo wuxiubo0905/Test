@@ -1,0 +1,1243 @@
+{
+  "version": "2023.02.27",
+  "hashes": [
+    []
+  ]
+}
+{
+  "version": "2023.02.28",
+  "hashes": [
+    []
+  ]
+}
+{
+  "version": "2023.03.02",
+  "hashes": [
+    []
+  ]
+}
+{
+  "version": "2023.03.06",
+  "hashes": [
+    []
+  ]
+}
+{
+  "version": "2023.03.08",
+  "hashes": [
+    []
+  ]
+}
+{
+  "version": "2023.03.10",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.03.10/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.04.01",
+  "hashes": [
+    []
+  ]
+}
+{
+  "version": "2023.04.11",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.04.11-2",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.11-2/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.04.17",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.17/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.04.20",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.04.20/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.05.08",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.05.08/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.06.01",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.06.01/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2023.10.28",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng-aarch64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-aarch64"
+      },
+      {
+        "name": "chinadns-ng-aarch64_be",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-aarch64_be"
+      },
+      {
+        "name": "chinadns-ng-arm-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-arm-eabi"
+      },
+      {
+        "name": "chinadns-ng-arm-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-arm-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armeb-eabi"
+      },
+      {
+        "name": "chinadns-ng-armeb-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armeb-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armel-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armel-eabi"
+      },
+      {
+        "name": "chinadns-ng-armel-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armel-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv5l-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv5l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv5l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv6-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv6-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv6-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7l-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv7l-eabihf"
+      },
+      {
+        "name": "chinadns-ng-armv7m-eabi",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv7m-eabi"
+      },
+      {
+        "name": "chinadns-ng-armv7r-eabihf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-armv7r-eabihf"
+      },
+      {
+        "name": "chinadns-ng-i486",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-i486"
+      },
+      {
+        "name": "chinadns-ng-i686",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-i686"
+      },
+      {
+        "name": "chinadns-ng-mips",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips"
+      },
+      {
+        "name": "chinadns-ng-mips-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips-sf"
+      },
+      {
+        "name": "chinadns-ng-mips64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips64"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips64-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips64-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mips64el",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips64el"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips64el-n32"
+      },
+      {
+        "name": "chinadns-ng-mips64el-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mips64el-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mipsel"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mipsel-n32"
+      },
+      {
+        "name": "chinadns-ng-mipsel-n32sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mipsel-n32sf"
+      },
+      {
+        "name": "chinadns-ng-mipsel-sf",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-mipsel-sf"
+      },
+      {
+        "name": "chinadns-ng-x86_64",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-x86_64"
+      },
+      {
+        "name": "chinadns-ng-x86_64-x32",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2023.10.28/chinadns-ng-x86_64-x32"
+      }
+    ]
+  ]
+}
+{
+  "version": "2024.03.07",
+  "hashes": [
+    [
+      {
+        "name": "chinadns-ng@aarch64-linux-musl@generic+v8a@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40aarch64-linux-musl%40generic%2Bv8a%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@aarch64-linux-musl@generic+v9a@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40aarch64-linux-musl%40generic%2Bv9a%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@arm-linux-musleabi@generic+v5t+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40arm-linux-musleabi%40generic%2Bv5t%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@arm-linux-musleabi@generic+v5te+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40arm-linux-musleabi%40generic%2Bv5te%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@arm-linux-musleabi@generic+v6+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40arm-linux-musleabi%40generic%2Bv6%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@arm-linux-musleabi@generic+v6t2+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40arm-linux-musleabi%40generic%2Bv6t2%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@arm-linux-musleabi@generic+v7a@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40arm-linux-musleabi%40generic%2Bv7a%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@arm-linux-musleabihf@generic+v7a@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40arm-linux-musleabihf%40generic%2Bv7a%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@i386-linux-musl@i686@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40i386-linux-musl%40i686%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@i386-linux-musl@pentium4@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40i386-linux-musl%40pentium4%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32r2+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32r2%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32r2@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32r2%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32r3+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32r3%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32r3@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32r3%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32r5+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32r5%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mips-linux-musl@mips32r5@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mips-linux-musl%40mips32r5%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32r2+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32r2%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32r2@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32r2%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32r3+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32r3%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32r3@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32r3%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32r5+soft_float@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32r5%2Bsoft_float%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@mipsel-linux-musl@mips32r5@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40mipsel-linux-musl%40mips32r5%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@x86_64-linux-musl@x86_64@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40x86_64-linux-musl%40x86_64%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@x86_64-linux-musl@x86_64_v2@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40x86_64-linux-musl%40x86_64_v2%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@x86_64-linux-musl@x86_64_v3@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40x86_64-linux-musl%40x86_64_v3%40fast%2Blto"
+      },
+      {
+        "name": "chinadns-ng@x86_64-linux-musl@x86_64_v4@fast+lto",
+        "hash": "https://github.com/zfl9/chinadns-ng/releases/download/2024.03.07/chinadns-ng%40x86_64-linux-musl%40x86_64_v4%40fast%2Blto"
+      }
+    ]
+  ]
+}
