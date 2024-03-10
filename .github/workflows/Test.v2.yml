@@ -150,7 +150,6 @@ jobs:
       - name: Check ${{ matrix.pakcages }}
         id: check
         run: |
-          if [ "$is_continue" = "true" ]; then
             cd && cd $GITHUB_WORKSPACE/${{ matrix.folder }}
             if [ ! -n "${{ matrix.version_line }}" ] ; then
               Old_PKG_VERSION=$(sed -n '/^${{ matrix.version_head }}/p' Makefile | awk -F '=' '{print $2}');
@@ -162,9 +161,7 @@ jobs:
             echo "${{ matrix.pakcages }}最新版本: $New_PKG_VERSION"
             echo "New_PKG_VERSION=$New_PKG_VERSION" >> $GITHUB_OUTPUT;  
             echo "status=success" >> $GITHUB_OUTPUT;
-          else
             echo "status=failure" >> $GITHUB_OUTPUT;
-          fi
 
       - name: Update ${{ matrix.pakcages }}
         id: update
