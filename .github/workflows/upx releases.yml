@@ -1,9 +1,14 @@
 name: upx releases
 on:
-  watch:
-    types: started
-  repository_dispatch:
-    types: build
+  push:
+    paths:
+      - '.github/workflows/upx releases.yml'
+  workflow_dispatch:
+    inputs:
+      packages:
+        description: 'packages'
+        required: false
+        default: ''
 
 permissions:
   contents: write
