@@ -160,8 +160,11 @@ jobs:
             echo "${{ matrix.pakcages }}目前版本: $Old_PKG_VERSION"
             echo "${{ matrix.pakcages }}最新版本: $New_PKG_VERSION"
             echo "New_PKG_VERSION=$New_PKG_VERSION" >> $GITHUB_OUTPUT;  
-            echo "status=success" >> $GITHUB_OUTPUT;
-            echo "status=failure" >> $GITHUB_OUTPUT;
+            if [ "$Old_PKG_VERSION" = "$New_PKG_VERSION" ]; then 
+              echo "status=failure" >> $GITHUB_OUTPUT; 
+            else
+              echo "status=success" >> $GITHUB_OUTPUT;
+            fi
 
       - name: Update ${{ matrix.pakcages }}
         id: update
