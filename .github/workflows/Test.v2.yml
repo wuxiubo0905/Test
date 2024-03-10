@@ -1,7 +1,7 @@
 #
 # Description: Auto update package
 #
-name: "chinadns-ng update"
+name: "Test v2"
 
 on:
   push:
@@ -68,7 +68,7 @@ jobs:
 
           - pakcages: chinadns-ng@arm-linux-musleabi@generic+v7a@fast+lto
             folder: chinadns-ng
-            version_line: 8
+            version_line: 
             hash_line: 21
             version_head: PKG_SOURCE:=
             hash_head: \    PKG_HASH:=
@@ -78,7 +78,7 @@ jobs:
 
           - pakcages: chinadns-ng@arm-linux-musleabihf@generic+v7a@fast+lto
             folder: chinadns-ng
-            version_line: 8
+            version_line: 
             hash_line: 24
             version_head: PKG_SOURCE:=
             hash_head: \    PKG_HASH:=
@@ -88,7 +88,7 @@ jobs:
 
           - pakcages: chinadns-ng@mips-linux-musl@mips32@fast+lto
             folder: chinadns-ng
-            version_line: 8
+            version_line: 
             hash_line: 28
             version_head: PKG_SOURCE:=
             hash_head: \  PKG_HASH:=
@@ -98,7 +98,7 @@ jobs:
 
           - pakcages: chinadns-ng@mipsel-linux-musl@mips32@fast+lto
             folder: chinadns-ng
-            version_line: 8
+            version_line: 
             hash_line: 31
             version_head: PKG_SOURCE:=
             hash_head: \  PKG_HASH:=
@@ -108,7 +108,7 @@ jobs:
 
           - pakcages: chinadns-ng@i386-linux-musl@i686@fast+lto
             folder: chinadns-ng
-            version_line: 8
+            version_line: 
             hash_line: 34
             version_head: PKG_SOURCE:=
             hash_head: \  PKG_HASH:=
@@ -118,7 +118,7 @@ jobs:
 
           - pakcages: chinadns-ng@x86_64-linux-musl@x86_64@fast+lto
             folder: chinadns-ng
-            version_line: 8
+            version_line: 
             hash_line: 36
             version_head: PKG_SOURCE:=
             hash_head: \  PKG_HASH:=
@@ -199,5 +199,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "chinadns-ng: update to ${{ steps.update.outputs.version }}"
+          commit_message: "${{ matrix.pakcages }}: update to ${{ steps.update.outputs.version }}"
           branch: main
