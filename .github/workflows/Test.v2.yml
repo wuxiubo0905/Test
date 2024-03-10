@@ -6,7 +6,7 @@ name: "chinadns-ng update"
 on:
   push:
     paths:
-      - '.github/workflows/Test.v3.yml'
+      - '.github/workflows/Test.v2.yml'
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
