@@ -1,7 +1,7 @@
 #
 # Description: Auto update package
 #
-name: "T2 Auto Update"
+name: "T2 test"
 
 on:
   push:

@@ -1,7 +1,7 @@
 #
 # Description: Auto update package
 #
-name: "Test v3"
+name: "T3 test"
 
 on:
   push:
@@ -100,11 +100,11 @@ jobs:
         id: get_versions_hashes
         run: |
           versions_hashes=$(curl -sL "https://api.github.com/repos/zfl9/chinadns-ng/releases" | jq -r '[.[] | {tag_name: .tag_name, assets: [.assets[] | {name: .name, hash: .browser_download_url}] }] | group_by(.tag_name) | .[] | {"version": .[0].tag_name, "hashes": [.[].assets]}')
-          echo "$versions_hashes" > versions_hashes.txt
+          echo "versions_hashes=$versions_hashes" >> $GITHUB_ENV
 
       - name: Update ${{ matrix.pakcages }}
         run: |
-          versions_hashes="${{ steps.get_versions_hashes.outputs.versions_hashes }}"
+          versions_hashes="${{ env.versions_hashes }}"
           for version_hash in $versions_hashes; do
             version=$(echo $version_hash | jq -r '.version')
             hashes=$(echo $version_hash | jq -r '.hashes[].hash')
@@ -118,5 +118,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "${{ matrix.pakcages }}: update to ${{ steps.update.outputs.version }}"
+          commit_message: "${{ matrix.packages }}: update to ${{ env.version }}"
           branch: main
