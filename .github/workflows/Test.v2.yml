@@ -150,8 +150,6 @@ jobs:
       - name: Check ${{ matrix.pakcages }}
         id: check
         run: |
-          is_continue=true
-
           if [ "$is_continue" = "true" ]; then
             cd && cd $GITHUB_WORKSPACE/${{ matrix.folder }}
             if [ ! -n "${{ matrix.version_line }}" ] ; then
@@ -164,7 +162,6 @@ jobs:
             echo "${{ matrix.pakcages }}最新版本: $New_PKG_VERSION"
             echo "New_PKG_VERSION=$New_PKG_VERSION" >> $GITHUB_OUTPUT;  
             echo "status=success" >> $GITHUB_OUTPUT;
-            fi
           else
             echo "status=failure" >> $GITHUB_OUTPUT;
           fi
